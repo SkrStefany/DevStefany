@@ -196,6 +196,19 @@ footer a {
     color: white;
 }
 
+a img {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 95px;
+    height: 35px;
+}
+@media screen { 
+    a img {
+        padding-left: 20px;
+        height: 35px;
+    }
+}
 
 
 
