@@ -143,13 +143,14 @@ html {
     margin-bottom: 40px;
     
 }
-.projetos-lista {
+.projetos-lista  {
     width: 100%;
     margin-bottom: 8px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 .projetos img {
     width: 22%;
     margin-left: 0.5%;
